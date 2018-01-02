@@ -2,11 +2,11 @@
 
 ### Day 1: January 2, 2018 (Example 1)
 
-**Today's Progress**: I started the challenge, working on a project that I've done a few weeks ago and now I am going to deliver the project.
+**Today's Progress**: I started the challenge, working on a project that I've started a few weeks ago and stopped development.
+The project is a game, where I had finished the main engine, it is missing few core features though. Today I worked on the level feature, need more development to complete the task, however, it is almost complete already.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Dont skip the tests!!.
 
-**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
