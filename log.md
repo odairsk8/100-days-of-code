@@ -15,13 +15,11 @@ The project is a game, where I had finished the main engine, it is missing few c
 **Thoughts**: Need to finish a simple version of the game until next week to stick to the deadline.
 
 
+### Day 3: January 3, Wednesday
 
-### Day 1: June 27, Monday
+**Today's Progress**: I've completed my first version of the game.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Already working better today.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+http://bit.ly/2CRHweh
